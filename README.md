@@ -1,7 +1,7 @@
 # Terrorist-Tracker-Toolkit - Manthan 2021 [ Developed By Clown Team ]
 
 
-Terrorist-Tracker-Toolkit tool is made for MANTHAN Compadition This tool is used for find the Terrorist in multiple Social Media Networks.
+Terrorist-Tracker-Toolkit tool is made for MANTHAN Competition. This tool is used to find the Terrorist in multiple Social Media Networks.
 
 Module 1 -> Find the Terrorist using web Scraping 
 
