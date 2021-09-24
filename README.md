@@ -11,11 +11,25 @@ Module 3 -> Find the Terrorist Location
 
 Module 4 -> Find the image details
 
+
 Tool working video 
 
-https://drive.google.com/drive/folders/1j9DeKEfjq6v-zhHkvVctg4OPxGhFwbuC?usp=sharing
+https://bit.ly/3o4e3ap
 
 
-if anyone want the zip file password please message to krishnansai71@gmail.com
+Installation Instructions :
 
-https://raw.githubusercontent.com/haries-dev/Terrorist-Tracker-Toolkit-/main/Demo.png
+  Step 1 : Clone our repo  : git clone https://github.com/haries-dev/Terrorist-Tracker-Toolkit-.git
+  
+  Step 2 : Extract our tool in seperate folder. @@ Note : Password is available in that manthan presentation ppt @@
+  
+  Step 3 : Type : pip3 install -r requirements.txt -> To install all requirements for using our tool.
+  
+  Step 4 : Minimum Requirements : Mozilla Firefox Browser.
+  
+  Step 5 : To run our Tool, Type This command : python3 main.py
+
+
+Terrorist Tracker Toolkit :
+
+<img src="./Demo.jpg">
