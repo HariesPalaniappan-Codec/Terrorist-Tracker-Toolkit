@@ -32,4 +32,4 @@ Installation Instructions :
 
 Terrorist Tracker Toolkit :
 
-<img src="./Demo.jpg">
+<img src="./Demo.png">
